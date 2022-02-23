@@ -7,11 +7,9 @@ entries:
       - title: 这里是 TOTORO625 の 小狗窝。欢迎开箱。
       - title: Telegram
         url: https://t.me/totoro625
-      - title: Blog
-        url: https://totoro.ink/
       - title: E-mail
         url: mailto:hc625@qq.com
-      - title: 欢迎来找我玩儿
+      - title: 不再设置评论区
 
   - title: 全部文章
     post_list:
@@ -22,9 +20,9 @@ entries:
 
   - title:
   - title: 关于我
-    url: about
+    url: about.html
   - title: RSS 订阅
-    url: feed.xml
+    url: feed
   
   - title: 更多内容
     entries:
@@ -32,29 +30,13 @@ entries:
       - title: 
       - title: 下面是页脚
         entries:
-          - title: ©2015 - 至今
+          - title: ©2015 - 至今 <a href="/%E7%A4%BA%E4%BE%8B%E6%96%87%E6%A1%A32.html">示例文档2</a>
           - title: Design
             url: https://github.com/riggraz/no-style-please
-          - title: TOTORO625
-            url: https://totoro.ink/
+          - title: totoro625
+            url: https://www.totoro.pub
           - title: 
           - title: 苏ICP备19010418号-1
             url: http://beian.miit.gov.cn
-
----
-{: data-content="线条上写字"}
-
- - title: 更多内容
-    entries:
-      - title: 
-      - title: 
-      - title: 下面是页脚
-        entries:
-          - title: ©2015 - 至今
-          - title: Design
-            url: https://github.com/riggraz/no-style-please
-          - title: TOTORO625
-            url: https://totoro.ink/
-          - title: 
-          - title: 苏ICP备19010418号-1
-            url: http://beian.miit.gov.cn
+            
+            
