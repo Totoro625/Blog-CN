@@ -1,10 +1,10 @@
 title: 橙汁不甜 # name of the site
 author: totoro625 # name of site's author
-email: i@totoro.pub # email of site's author
+email: i@run.cm # email of site's author
 url: https://www.totoro.pub # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: TOTORO625のSpecial
-permalink: /:slug.html
+description: TOTORO625のSpecial totoro625 是条咸鱼
+permalink: /:slug
 
 favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
@@ -14,8 +14,8 @@ theme: no-style-please # if you are using GitHub Pages, change it to remote_them
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: "返回主页" # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  back_home_text: "『返回』🧀ヾ(≧▽≦*)o" # customize text for homepage link in post layout
+  date_format: "『时间』📢%Y年%m月%d日" # customize how date is formatted
   show_description: true # show blog description in home page
 
 sass:
