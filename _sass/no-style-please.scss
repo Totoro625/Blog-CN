@@ -1,0 +1,126 @@
+// -------------- THEME SWITCHER -------------- //
+html,
+body,
+span,
+h1 {
+  color: #2fd4ca;
+}
+body,td,th {font-family: zhuziawan;} 
+// 修改选中字符的颜色
+/* webkit, opera, IE9 */
+::selection {
+    background: #2fd4ca;
+    color: #f7f7f7;
+}
+/* firefox */
+::-moz-selection {
+    background: #2fd4ca;
+    color: #f7f7f7;
+}
+// 浏览器滚动条
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background: #49b1f5;
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+a:link{color:#2fd4ca;}      /* 未访问链接*/
+a:visited {color:#2fd4ca;}  /* 已访问链接 */
+a:hover {color:#ff8e41;}  /* 鼠标移动到链接上 */
+a:active {color:#ff8e41;}  /* 鼠标点击时 */
+
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
+
+    &.ioda { filter: invert(0); }
+  }
+}
+
+body[a="dark"] { @include dark-appearance; }
+
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] { @include dark-appearance; }
+}
+// -------------------------------------------- //
+
+// bg color is also needed in html in order to
+// block body's background propagation
+// see: https://stackoverflow.com/a/61265706
+html, body { background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACFJREFUeNpiZGBg4GegAsBlCD8TqSYNQg2Mo6FEBAAIMACdPABtrSW/IQAAAABJRU5ErkJggg=="); }
+
+html { height: 100%; }
+
+body {
+  color: black;
+  font-size: 22px;
+  line-height: 1.4;
+  margin: 0;
+  min-height: 100%;
+  overflow-wrap: break-word;
+}
+
+.post-meta { text-align: right; }
+
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
+
+hr { margin: 2rem 0; }
+
+p { margin: 1rem 0; }
+
+li { margin: 0.4rem 0; }
+
+*:target { background: yellow; }
+
+.w {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+hr {
+  text-align: center;
+  border: 0;
+
+  &:before { content: '-----' }
+  &:after { content: attr(data-content) '-----' }
+}
+
+table { width: 100%; }
+
+table, th, td {
+  border: thin solid black;
+  border-collapse: collapse;
+  padding: 0.4rem;
+}
+
+code {
+  color: white;
+  background: black;
+}
+
+div.highlighter-rouge code {
+  display: block;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  padding: 1rem;
+}
+
+blockquote {
+  border: thin solid black;
+  padding: 1rem;
+
+  p { margin: 0; }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}

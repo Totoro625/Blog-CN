@@ -1,0 +1,31 @@
+name: Jekyll CI
+
+on: [push]
+#on:
+#  push:
+#    branches:
+#      - pages
+
+jobs:
+  jekyll:
+    name: Build and deploy Jekyll site
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Build
+      uses: jerryjvl/jekyll-build-action@v1
+
+    - name: Install coscmd
+      run: sudo pip install coscmd
+    - name: Configure coscmd
+      env:
+        SECRET_ID: ${{ secrets.SecretId }}
+        SECRET_KEY: ${{ secrets.SecretKey }}
+        BUCKET: ${{ secrets.BUCKET2 }}
+        REGION: ap-shanghai
+      run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
+    - name: Upload
+      run: coscmd upload -rs --delete -f ./_site/ / --ignore "./.deploy_git/.git/*"

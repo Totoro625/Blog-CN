@@ -1,0 +1,42 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: 找到我
+    entries:
+      - title: 这里是 TOTORO625 の小狗窝。欢迎开箱。
+      - title: Telegram
+        url: https://t.me/totoro625
+      - title: Blog
+        url: https://totoro.ink/
+      - title: E-mail
+        url: mailto:hc625@qq.com
+      - title: 欢迎来找我玩儿
+
+  - title: 全部文章
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: 查看归档内容
+      show_more_url: archive.html
+
+  - title:
+  - title: 关于我
+    url: about
+  - title: RSS 订阅
+    url: feed.xml
+  
+  - title: 更多内容
+    entries:
+      - title: 
+      - title: 
+      - title: 下面是页脚
+        entries:
+          - title: ©2015 - 至今
+          - title: Design
+            url: https://github.com/riggraz/no-style-please
+          - title: TOTORO625
+            url: https://totoro.ink/
+          - title: 
+          - title: 苏ICP备19010418号-1
+            url: http://beian.miit.gov.cn
