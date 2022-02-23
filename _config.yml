@@ -3,9 +3,8 @@ author: totoro625 # name of site's author
 email: i@run.cm # email of site's author
 url: https://www.totoro.pub # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: | # description of the site (multiple lines allowed)
- totoro625 是条咸鱼\n\
- \n\
+description: > # description of the site (multiple lines allowed)
+ totoro625 是条咸鱼\n
  无可救药啦( •̀ ω •́ )✧
 permalink: /:slug
 
