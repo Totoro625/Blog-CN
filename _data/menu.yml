@@ -4,7 +4,7 @@
 entries:
   - title: 找到我
     entries:
-      - title: 这里是 TOTORO625 の小狗窝。欢迎开箱。
+      - title: 这里是 TOTORO625 の 小狗窝。欢迎开箱。
       - title: Telegram
         url: https://t.me/totoro625
       - title: Blog
@@ -27,6 +27,24 @@ entries:
     url: feed.xml
   
   - title: 更多内容
+    entries:
+      - title: 
+      - title: 
+      - title: 下面是页脚
+        entries:
+          - title: ©2015 - 至今
+          - title: Design
+            url: https://github.com/riggraz/no-style-please
+          - title: TOTORO625
+            url: https://totoro.ink/
+          - title: 
+          - title: 苏ICP备19010418号-1
+            url: http://beian.miit.gov.cn
+
+---
+{: data-content="线条上写字"}
+ 
+ - title: 更多内容
     entries:
       - title: 
       - title: 

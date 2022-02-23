@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: 关于 totoro625 - 橙汁不甜
 ---
-
-## 关于 TOTORO625
 
 ![img](https://img.totoro.pub/pages/cat01.png)
 
