@@ -1,8 +1,6 @@
 ---
 title: 随机图片api与一言(hitokoto)api
-date: 2018-01-15 23:27:00
-update: 2018-01-16 19:25:00
-tags: api
+layout: post
 category: bash
 ---
 

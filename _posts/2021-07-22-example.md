@@ -1,6 +1,7 @@
 ---
 layout: post
 category: example
+title: 演示内容
 ---
 
 演示标注[^1] 演示内容。

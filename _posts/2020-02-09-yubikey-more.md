@@ -1,11 +1,7 @@
 ---
 title: YubiKey 与 BitLocker
-date: 2020-02-09 10:07:00
-update: 2020-02-09 10:07:00
-tags: 安全
+layout: post
 category: bash
-copyright: true
-comment: true
 ---
 
 前年的这个时候[买了一个 YubiKey](https://totoro.ink/yubikey.html) ，具体的应用实际上就是并没有什么，除了给我输入一下超长的主密码。

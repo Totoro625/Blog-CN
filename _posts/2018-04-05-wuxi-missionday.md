@@ -1,8 +1,6 @@
 ---
 title: 无锡 MISSION DAY
-date: 2018-04-05 00:15:00
-update: 2018-04-05 00:15:00
-tags: ingress
+layout: post
 category: ingress
 ---
 

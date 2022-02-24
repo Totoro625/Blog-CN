@@ -1,8 +1,6 @@
 ---
 title: 纪念我的朋友
-date: 2020-12-24 14:43:00
-update: 2020-12-24 14:43:00
-tags: memory
+layout: post
 category: memory
 ---
 

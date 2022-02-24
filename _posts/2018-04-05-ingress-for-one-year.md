@@ -1,8 +1,6 @@
 ---
 title: 写在 ingress 游戏入坑一周年
-date: 2018-04-05 13:54:00
-update: 2018-04-05 21:59:00
-tags: ingress
+layout: post
 category: ingress
 ---
 

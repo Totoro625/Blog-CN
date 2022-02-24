@@ -1,8 +1,6 @@
 ---
 title: adb命令模拟按键事件 KeyCode
-date: 2018-02-13 02:18:00
-update: 2018-02-13 02:18:00
-tags: android
+layout: post
 category: bash
 ---
 
