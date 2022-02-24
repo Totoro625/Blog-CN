@@ -12,7 +12,10 @@
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
       {% endfor %}
     {% endif %}
+	
+	{%-include footer.html-%}
+      <div class="w">
+        {%-include footer.html-%}
+      </div>
   </body>
 </html>
-
-{%-include footer.html-%}
