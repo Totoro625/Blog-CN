@@ -2,14 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 找到我
+  - title: 这里是 TOTORO625 の 小狗窝。欢迎开箱。
     entries:
-      - title: 这里是 TOTORO625 の 小狗窝。欢迎开箱。
+      - title: 联系方式
       - title: Telegram
         url: https://t.me/totoro625
       - title: E-mail
         url: mailto:hc625@qq.com
-      - title: 通过以上联系方式找到我，不再设置评论区
+      - title: 没有评论区QAQ
 
   - title: 全部文章
     post_list:
@@ -17,26 +17,8 @@ entries:
       show_more: true
       show_more_text: 查看归档内容
       show_more_url: archive
-
-  - title:
+      
+  - title: 大佬们
+    url: link
   - title: 关于我
     url: about
-  - title: RSS 订阅
-    url: feed.xml
-  
-  - title: 更多内容
-    entries:
-      - title: 
-      - title: 
-      - title: 下面是页脚
-        entries:
-          - title: ©2015 - 至今 <a href="/about">示例文档2</a>
-          - title: Design
-            url: https://github.com/riggraz/no-style-please
-          - title: totoro625
-            url: https://www.totoro.pub
-          - title: 
-          - title: 苏ICP备19010418号-1
-            url: http://beian.miit.gov.cn
-            
-            
