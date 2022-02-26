@@ -2,5 +2,3 @@
 layout: home
 ---
 
----
-{: data-content=""}
