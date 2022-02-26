@@ -16,10 +16,10 @@ update: 2021-01-23
 
 ```
 title: totoro625
-url: https://totoro.ink
+url: https://www.totoro.pub
 bio: 龙猫不在家
-avatar: https://totoro.ink/favicon.ico
-rss: https://totoro.ink/atom.xml
+avatar: https://www.totoro.pub/favicon.ico
+rss: https://www.totoro.pub/feed.xml
 ```
 
 ## 个人收藏
@@ -27,7 +27,7 @@ rss: https://totoro.ink/atom.xml
 | 🕸                                                 | ✔                              | 😋                            |
 | ------------------------------------------------- | ------------------------------ | ---------------------------- |
 | [DIYgod](https://diygod.me)                       | DPLAY                          | BILIBILI                     |
-| [果果喵](https://moe.xin)                         | 一只在试图刷存在感的喵         | Factorio 肝帝呢              |
+| 果果喵                                            | 一只在试图刷存在感的喵         | Factorio 肝帝呢              |
 | [神楽坂 玉兔](https://www.54yt.net)               | 兔子                           | 啥时候女装呢                 |
 | [freejishu的美丽世界](https://www.freejishu.com/) | Code · Thinking · ACG          | 认识了 Chevereto             |
 | [超能小紫](https://www.mokeyjay.com)              | PHP · ACG                      | 大哥结婚了                   |
