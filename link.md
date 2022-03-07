@@ -24,26 +24,35 @@ rss: https://www.totoro.pub/feed.xml
 
 ## 个人收藏
 
-| 🕸                                                 | ✔                              | 😋                            |
-| ------------------------------------------------- | ------------------------------ | ---------------------------- |
-| [DIYgod](https://diygod.me)                       | DPLAY                          | BILIBILI                     |
-| 果果喵                                            | 一只在试图刷存在感的喵         | Factorio 肝帝呢              |
-| [神楽坂 玉兔](https://www.54yt.net)               | 兔子                           | 啥时候女装呢                 |
-| [freejishu的美丽世界](https://www.freejishu.com/) | Code · Thinking · ACG          | 认识了 Chevereto             |
-| [超能小紫](https://www.mokeyjay.com)              | PHP · ACG                      | 大哥结婚了                   |
-| [Troy’s Blog](https://itroy.cc)                   | Troy 的星球                    |                              |
-| [猫与向日葵](https://nocilol.me/)                 | 浊以静之徐清，安以动之徐生     |                              |
-| [浅雨痕](https://blog.moew.xyz/)                  | 花开如梦，风过无痕             |                              |
-| [苍崎橙子的博客君](http://447f.misaka.org/)       | Windows 风格                   |                              |
-| [CDog](https://cdog.me)                           | 前端大厨                       |                              |
-| [饭饭’s Blog](https://ffis.me)                    | 不忘初心，方得始终             |                              |
-| Literature                                        | 大叔                           | 会不会被打啊                 |
-| Ephen                                             | CloudXNS 产品经理              | CloudXNS 不再面向个人        |
-| 一壶烧酒                                          | 一壶烧酒，曲终人散，不复回     | 医生                         |
-| Leonn 的博客                                      | 转行 AFFMAN                    | 学会了caddy的File Manager    |
-| 月宅酱                                            | 转行做游戏了                   | 殿堂级资深老死机             |
-| 木子的博客                                        | 垃圾佬、搬砖社畜、运维工程师   | Next 主题的 styles.styl 来源 |
-| LWL 的自由天空                                    | 一言 API                       | PHP 启蒙                     |
-| Kirito’S BLOG                                     | 手中有剑，方能保护心里珍惜之人 |                              |
-|                                                   |                                |                              |
+| 🕸                                                | ✔                                                | 😋                                                   |
+| ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------------- |
+| [DIYgod](https://diygod.me)                      | DPLAY                                            | BILIBILI                                            |
+| [果果喵](http://moe.xin)                         | 一只在试图刷存在感的喵                           | Factorio 肝帝呢                                     |
+| [神楽坂 玉兔](https://www.54yt.net)              | 兔子                                             | 啥时候女装呢                                        |
+| [freejishu的美丽世界](https://www.freejishu.com) | Code · Thinking · ACG                            | 认识了 Chevereto                                    |
+| [超能小紫](https://www.mokeyjay.com)             | PHP · ACG                                        | 大哥结婚了                                          |
+| [Troy’s Blog](https://itroy.cc)                  | Troy 的星球                                      |                                                     |
+| [猫与向日葵](https://nocilol.me)                 | 浊以静之徐清，安以动之徐生                       |                                                     |
+| [浅雨痕](https://blog.moew.xyz)                  | 花开如梦，风过无痕                               |                                                     |
+| [苍崎橙子的博客君](http://447f.misaka.org)       | Windows 风格                                     |                                                     |
+| [CDog](https://cdog.me)                          | 前端大厨                                         |                                                     |
+| [饭饭’s Blog](https://ffis.me)                   | 不忘初心，方得始终                               |                                                     |
+| [Literature](https://www.literature.hk)          | 大叔                                             | 会不会被打啊                                        |
+| [Ephen](https://ephen.me)                        | CloudXNS 产品经理                                | CloudXNS 不再面向个人                               |
+| 一壶烧酒                                         | 一壶烧酒，曲终人散，不复回                       | 医生                                                |
+| Leonn 的博客                                     | 转行 AFFMAN                                      | 学会了caddy的File Manager                           |
+| [月宅酱 Re](https://moegod.com)                  | 殿堂级资深老死机                                 | ~~转行做游戏了~~ 已重生                             |
+| [木子](https://blog.k8s.li)                      | 垃圾佬、搬砖社畜、运维工程师                     | Next 主题的 styles.styl 来源                        |
+| [LWL 的自由天空](https://blog.lwl12.com)         | 一言 API 已封存                                  | PHP 启蒙                                            |
+| Kirito’S BLOG                                    | 手中有剑，方能保护心里珍惜之人                   |                                                     |
+| [ましろ](https://www.jioushan.top)               | 虽然是个废宅，这是我仅存的一点空间，不要压垮它。 | 安利了minio存储桶                                   |
+| [Howard's Blog](https://blog.ixnet.work)         | 感谢贴吧云签到长达5年的陪伴                      |                                                     |
+| [Kenvix](https://kenvix.com)                     |                                                  | Minecraft启蒙于[Moecraft](https://www.moecraft.net) |
+| [轻歌](https://qaq.cat)                          | An orange dream.                                 |                                                     |
+| [毛玉线圈物语](https://craft.moe)                | Minecraft 服务器                                 |                                                     |
+| [saber酱的抱枕](https://saber.love)              | pixiv下载器非常好用                              |                                                     |
+| [printempw](https://prinsss.github.io)           | 半吊子全栈开发者的日常                           | 认识了加密知识和破娃酱breakwa11                     |
+| [橘纸柚](https://lovemen.cc)                     | 学习了Nginx                                      |                                                     |
+|                                                  |                                                  |                                                     |
+|                                                  |                                                  |                                                     |
 
