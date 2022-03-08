@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /loli/
+Sitemap: https://www.totoro.pub/feed.xml
