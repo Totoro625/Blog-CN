@@ -9,7 +9,7 @@ title: 欢迎来到里世界
 {: data-content="那就开始吧"}
 
 - [软件安利](/loli/aff)
-- [书签](/loli/goto)
+- [书签](/loli/link)
 - [随手记](/loli/note)
 - [碎片](/loli/logs)
 
