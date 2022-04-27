@@ -1,6 +1,5 @@
 ---
-layout: post
-category: games
+layout: page
 title: Factorio 异星工厂蓝图分享
 ---
 

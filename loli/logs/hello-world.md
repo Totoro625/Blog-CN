@@ -1,6 +1,5 @@
 ---
-layout: post
-category: example
+layout: page
 title: 演示内容
 ---
 
@@ -50,7 +49,7 @@ title: 演示内容
 
 ## 代码
 
-下面就是:
+下面就是[^3]:
 
 ```
 code
@@ -70,7 +69,7 @@ code
 
 ## 图
 
-![theme logo](https://www.totoro.pub/favicon.ico){:.ioda}
+![theme logo](/favicon.ico){:.ioda}
 
 看看*斜体* 于引用[^4]
 

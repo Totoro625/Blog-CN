@@ -1,6 +1,5 @@
 ---
-layout: post
-category: factcheck
+layout: page
 title: 关于谣言与辟谣
 ---
 
