@@ -26,4 +26,6 @@ title: 欢迎来到里世界
 
 6. [曾经的白月光](/loli/logs/2022-04-27)
 
+7. [微信读书书架](/loli/logs/weread-bookshelf)
+
    
