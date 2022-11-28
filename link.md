@@ -16,10 +16,10 @@ update: 2021-01-23
 
 ```
 title: totoro625
-url: https://www.totoro.pub
+url: https://totoro.ink
 bio: 龙猫不在家
-avatar: https://www.totoro.pub/favicon.ico
-rss: https://www.totoro.pub/feed.xml
+avatar: https://totoro.ink/favicon.ico
+rss: https://totoro.ink/feed.xml
 ```
 
 ## 个人收藏
