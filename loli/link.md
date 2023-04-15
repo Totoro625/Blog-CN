@@ -12,13 +12,13 @@ title: 书签
 2. [Hostloc](https://hostloc.com/forum-45-1.html)
 3. [NGA晴风村](https://bbs.nga.cn/thread.php?fid=-7955747)
 4. [Chiphell](https://www.chiphell.com/forum-146-1.html)
-5. IP检测服务：[Sukka](https://ip.skk.moe/) \ [orzTools](https://ip.orz.tools) \ [中国科学技术大学](http://revproxy.ustc.edu.cn:8000/) [IP.SB](https://ip.sb/) 
-6. 域名工具：[NameBeta](https://namebeta.com/zh) [哪煮米](https://www.nazhumi.com/) [腾讯云](https://buy.cloud.tencent.com/domain) [趣域](https://www.quyu.net/domainchecker.php) | 
-7. 查找软件 [Altapps](https://zh.altapps.net/) 
+5. IP检测服务：[Sukka](https://ip.skk.moe/) | [orzTools](https://ip.orz.tools) | [中国科学技术大学](http://revproxy.ustc.edu.cn:8000/) | [IP.SB](https://ip.sb/) 
+6. 域名工具：[NameBeta](https://namebeta.com/zh) [哪煮米](https://www.nazhumi.com/)  / [腾讯云](https://buy.cloud.tencent.com/domain) [趣域](https://www.quyu.net/domainchecker.php)
+7. 查找软件： [Altapps](https://zh.altapps.net/) 
 8. 图片搜索：[saucenao](https://saucenao.com/) 
 9. [Office E5（使用自己的微软账户登录）](https://developer.microsoft.com/zh-cn/microsoft-365/profile)
 10. 网络工具：[ITDOG](https://www.itdog.cn/) [ping.pe](https://ping.pe/) [IPv6工具](https://ipw.cn/) 
-11. [hanser](https://live.bilibili.com/255) 
+11. 常去的直播间：[hanser](https://live.bilibili.com/255) 
 
 
 

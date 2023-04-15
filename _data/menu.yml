@@ -12,8 +12,9 @@ entries:
       - title: 没有评论区QAQ
 
   - title: 全部文章
+    url: archive
     post_list:
-      limit: 0
+      limit: -1
       show_more: true
       show_more_text: 查看归档内容
       show_more_url: archive
