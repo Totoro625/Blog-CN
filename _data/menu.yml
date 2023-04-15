@@ -13,7 +13,7 @@ entries:
 
   - title: 全部文章
     post_list:
-      limit: 5
+      limit: 0
       show_more: true
       show_more_text: 查看归档内容
       show_more_url: archive
