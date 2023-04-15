@@ -14,8 +14,8 @@ entries:
   - title: 全部文章
     url: archive
     post_list:
-      limit: -1
-      show_more: true
+      limit: 0
+      show_more: false
       show_more_text: 查看归档内容
       show_more_url: archive
       
@@ -23,5 +23,8 @@ entries:
     url: link
   - title: 里世界
     url: loli
+    entries:
+      - title: 书签
+        url: loli/link
   - title: 关于我
     url: about
