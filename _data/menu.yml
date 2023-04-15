@@ -11,7 +11,7 @@ entries:
         url: mailto:hc625@qq.com
       - title: 没有评论区QAQ
 
-  - title: 全部文章
+  - title: 文章归档
     url: archive
     post_list:
       limit: 0
