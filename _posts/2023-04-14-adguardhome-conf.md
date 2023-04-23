@@ -6,7 +6,7 @@ title: AdguardHome 配置分享
 
 腾讯云上海DOH地址（分流）：https://doh.totoro.pub/dns-query/share
 
-[旧的配置](/adguardhome-conf)
+[旧的配置](/adguardhome-conf-220530)
 
 ## 国外部分
 
